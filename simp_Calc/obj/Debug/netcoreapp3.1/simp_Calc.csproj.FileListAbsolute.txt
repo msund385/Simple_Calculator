@@ -1,0 +1,13 @@
+C:\Users\Michael\Desktop\my_Projects\simp_Calc\simp_Calc\bin\Debug\netcoreapp3.1\simp_Calc.exe
+C:\Users\Michael\Desktop\my_Projects\simp_Calc\simp_Calc\bin\Debug\netcoreapp3.1\simp_Calc.deps.json
+C:\Users\Michael\Desktop\my_Projects\simp_Calc\simp_Calc\bin\Debug\netcoreapp3.1\simp_Calc.runtimeconfig.json
+C:\Users\Michael\Desktop\my_Projects\simp_Calc\simp_Calc\bin\Debug\netcoreapp3.1\simp_Calc.runtimeconfig.dev.json
+C:\Users\Michael\Desktop\my_Projects\simp_Calc\simp_Calc\bin\Debug\netcoreapp3.1\simp_Calc.dll
+C:\Users\Michael\Desktop\my_Projects\simp_Calc\simp_Calc\bin\Debug\netcoreapp3.1\simp_Calc.pdb
+C:\Users\Michael\Desktop\my_Projects\simp_Calc\simp_Calc\obj\Debug\netcoreapp3.1\simp_Calc.csprojAssemblyReference.cache
+C:\Users\Michael\Desktop\my_Projects\simp_Calc\simp_Calc\obj\Debug\netcoreapp3.1\simp_Calc.AssemblyInfoInputs.cache
+C:\Users\Michael\Desktop\my_Projects\simp_Calc\simp_Calc\obj\Debug\netcoreapp3.1\simp_Calc.AssemblyInfo.cs
+C:\Users\Michael\Desktop\my_Projects\simp_Calc\simp_Calc\obj\Debug\netcoreapp3.1\simp_Calc.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Desktop\my_Projects\simp_Calc\simp_Calc\obj\Debug\netcoreapp3.1\simp_Calc.dll
+C:\Users\Michael\Desktop\my_Projects\simp_Calc\simp_Calc\obj\Debug\netcoreapp3.1\simp_Calc.pdb
+C:\Users\Michael\Desktop\my_Projects\simp_Calc\simp_Calc\obj\Debug\netcoreapp3.1\simp_Calc.genruntimeconfig.cache
